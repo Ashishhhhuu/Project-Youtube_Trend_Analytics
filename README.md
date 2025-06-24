@@ -82,6 +82,6 @@ This end-to-end analysis of YouTube trending data revealed key insights about co
 **Ashish Shabolu**  
 🎓 B.Tech Data Science  
 📍 India  
-🐙 [GitHub](https://github.com/Ashishhhhuu) *(Replace with your actual GitHub URL)*
+🐙 [GitHub](https://github.com/Ashishhhhuu)
 
 ---
